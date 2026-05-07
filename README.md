@@ -10,9 +10,9 @@ The purpose of this repo is to convert Boot.dev software engineering concepts in
 
 Boot.dev provides the programming, backend, and DevOps foundation. I use OWASP Top 10, OWASP ASVS, and NIST SSDF to add a security engineering layer.
 
-# Security References
+## Security References
 
-## OWASP Top 10
+### OWASP Top 10
 
 Use OWASP Top 10 to map Boot.dev backend/API lessons to common web application security risks.
 
@@ -24,7 +24,7 @@ How I will use it:
 - Add notes for access control, injection, misconfiguration, cryptographic failures, and secure design
 - Use it as an awareness baseline for backend projects
 
-## OWASP ASVS
+### OWASP ASVS
 
 Use OWASP ASVS as a checklist for secure backend/API projects.
 
@@ -36,7 +36,7 @@ How I will use it:
 - Map project controls to ASVS requirements
 - Review authentication, authorization, input validation, logging, error handling, and secure configuration
 
-## NIST SSDF
+### NIST SSDF
 
 Use NIST SSDF to understand secure SDLC and professional secure development practices.
 
