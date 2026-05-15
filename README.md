@@ -10,6 +10,15 @@ Convert Boot.dev software engineering concepts into practical cybersecurity, App
 
 Boot.dev provides the programming, backend, and DevOps foundation. This repo applies OWASP Top 10, OWASP ASVS, and NIST SSDF as the security engineering layer.
 
+## Alignment with Security Journey
+
+This repository is aligned to the roadmap in `bootdev-security-journey`.
+
+- Phase 1 status: **In Progress** (Python track completed through core chapters)
+- Near-term portfolio focus: Projects 1–3
+- Mid-term portfolio focus: Projects 4–5
+- Advanced specialization track: AppSec review, threat modeling, secure code review, DevSecOps pipeline
+
 ## About
 
 This repository contains security-focused projects that evolve from Boot.dev programming exercises. Each project demonstrates the practical application of software engineering concepts to cybersecurity use cases.
@@ -78,6 +87,15 @@ See [vulnerability-triage-tool/README.md](vulnerability-triage-tool/README.md)
 **OWASP Mapping:** A05, A06
 **NIST SSDF Mapping:** PW.3, RV.2
 **Goal:** Dockerize security tools, add hardening guidelines
+
+## Advanced Specialization Projects (Phase 5)
+
+These projects align with the advanced section of `bootdev-security-journey/roadmap.md`:
+
+- AppSec Review Project
+- Threat Modeling Project
+- Secure Code Review Collection
+- DevSecOps Pipeline Project
 
 ## Security Standards
 

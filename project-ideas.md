@@ -307,7 +307,31 @@ Projects are selected based on:
 2. **Security value** - Addresses real security concerns
 3. **Portfolio impact** - Demonstrates marketable skills
 4. **Complexity progression** - Builds from simple to complex
-5. **Tool实用性** - Creates genuinely useful security tools
+5. **Tool usefulness** - Creates genuinely useful security tools
+
+## Advanced Specialization Projects (Phase 5)
+
+After the first five core projects, this repository continues with advanced security specialization work aligned to the journey roadmap:
+
+### AppSec Review Project
+- Review Secure Backend API attack surface
+- Map findings to OWASP Top 10
+- Document findings, fixes, and verification notes
+
+### Threat Modeling Project
+- Build architecture diagrams and trust boundaries
+- Use STRIDE for threat identification
+- Document mitigations and residual risk
+
+### Secure Code Review Collection
+- Maintain insecure vs secure code examples
+- Explain security impact and remediation rationale
+- Build reusable secure coding references for interviews
+
+### DevSecOps Pipeline Project
+- Add CI/CD security checks (linting, dependency scanning)
+- Document pipeline behavior and hardening decisions
+- Map controls to NIST SSDF and OWASP ASVS where relevant
 
 ## Future Expansion
 
