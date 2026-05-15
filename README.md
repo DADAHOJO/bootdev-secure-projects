@@ -2,6 +2,14 @@
 
 Practical security tools built from Boot.dev learning exercises.
 
+## Goal
+
+Convert Boot.dev software engineering concepts into practical cybersecurity, AppSec, and DevSecOps portfolio projects.
+
+## Positioning
+
+Boot.dev provides the programming, backend, and DevOps foundation. This repo applies OWASP Top 10, OWASP ASVS, and NIST SSDF as the security engineering layer.
+
 ## About
 
 This repository contains security-focused projects that evolve from Boot.dev programming exercises. Each project demonstrates the practical application of software engineering concepts to cybersecurity use cases.

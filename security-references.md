@@ -311,3 +311,17 @@ Each project should include:
 - [Safety](https://github.com/pyupio/safety) - Dependency checker
 - [Trivy](https://github.com/aquasecurity/trivy) - Container scanner
 - [OWASP ZAP](https://www.zaproxy.org/) - Web security scanner
+
+## Practical Usage Guide
+
+### OWASP Top 10
+- Map backend/API project lessons to common web application risks.
+- Prioritize access control, injection, misconfiguration, cryptographic failures, and secure design.
+
+### OWASP ASVS
+- Use as a verification checklist for backend/API project controls.
+- Review authentication, authorization, input validation, logging, error handling, and secure configuration.
+
+### NIST SSDF
+- Apply to secure SDLC process documentation and vulnerability reduction practices.
+- Use for root-cause prevention and secure development workflow maturity.
